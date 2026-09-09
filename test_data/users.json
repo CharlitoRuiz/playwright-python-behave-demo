@@ -1,0 +1,11 @@
+{
+  "valid_user": {
+    "username": "demo",
+    "password": "demo123"
+  },
+
+  "transfer": {
+    "amount": "100",
+    "description": "Transferencia BDD"
+  }
+}
